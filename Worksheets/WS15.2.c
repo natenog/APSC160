@@ -1,5 +1,5 @@
 /* 
- * Author: 
+ * Author: Nate Noguera
  * Date: 
  * Purpose: prints the temperature at equally spaced points on a metal
  * plate of length L and height H according to the formula:
